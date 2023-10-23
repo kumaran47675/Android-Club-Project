@@ -57,3 +57,11 @@ Each Document has following field
 6.ProgrammeNumber
 
 7.School
+
+Steps:
+
+1.Create credentials using Register 
+
+2.Enter new users details in form 
+
+3.View the entered detail in viewDetail
