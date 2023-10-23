@@ -7,6 +7,8 @@ StackNavigator was inspired from the link-https://reactnavigation.org/docs/stack
 
 
 How to run the Project:
+
+
 1.Download the Project from Github
 2.open the folder in VS code
 3.open terminal in vs code in the current folder
